@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+IPFS Link: https://bafkreiar5lpxks6eklt7iaa5jp4dhzthyh4volrlun6fhrronhi6xbgcbm.ipfs.nftstorage.link/
+IPFS Link: https://bafybeicoqjwyt3pdi7uj4eu7c2pvr2tpy45zdimotfkbsojqfsw375nro4.ipfs.nftstorage.link/
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+ERC20 Contract Address: 0x61B6EbbFea687016F03da63b467bbeC1b7e8BD71
+ERC721 Contract Address: 0xE6d45BD0e7950BD8E794801b816B172fd07C83BD
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+ERC20 Contract Etherscan Address: https://rinkeby.etherscan.io/address/0x61B6EbbFea687016F03da63b467bbeC1b7e8BD71
+ERC721 Contract Etherscan Address: https://rinkeby.etherscan.io/address/0xE6d45BD0e7950BD8E794801b816B172fd07C83BD
